@@ -18,7 +18,6 @@ Once the user exits, a report is generated that calculates and displayes ticket 
 The words in bold are the output of the program whereas the words not in bold are the input by the user.
 
 <img width="776" alt="Screen Shot 2021-12-30 at 5 56 47 AM" src="https://user-images.githubusercontent.com/42907026/147749974-f261168b-f9df-4ee8-9998-98fd0c050fda.png">
-
 <img width="850" alt="Screen Shot 2021-12-30 at 5 57 02 AM" src="https://user-images.githubusercontent.com/42907026/147749990-639a243f-1863-4e93-b80d-235509605bd7.png">
 
 

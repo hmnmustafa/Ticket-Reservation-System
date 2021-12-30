@@ -4,9 +4,13 @@ by Hamna Mustafa
 In this project, I created a ticket reservation system in C++. A seating chart for an auditorium is provided in a txt file. An example file looks like:
 
 ...AA..CSSAC........
+
 ACSAACCA....AAAA..SS
+
 .........AS.........
+
 C.A.S.A.S.C.S.C.A.A.
+
 AACACSSA.CCSSS.AAACC
 
 Each line represents one row of the auditorium. The "." represent empty seats where as "A","C","S" represent reserved seats for adults, children, and seniors respectively. 
@@ -17,6 +21,9 @@ If the user decides to reserve the seats, the code updates the text file so that
 Once the user exits, a report is generated that calculates and displayes ticket sales’ statistics.
 
 # Sample Run
+
+The words in bold are the output of the program whereas the words not in bold are the input by the user
+
 <img width="841" alt="Screen Shot 2021-12-30 at 5 25 04 AM" src="https://user-images.githubusercontent.com/42907026/147747735-fbb83c9e-dd07-49bc-9e7d-faf267ca710c.png">
 
 <img width="860" alt="Screen Shot 2021-12-30 at 5 26 22 AM" src="https://user-images.githubusercontent.com/42907026/147747837-020c853f-5e2d-4f9a-acd3-c20a8eb7181a.png">

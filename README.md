@@ -3,7 +3,7 @@ by Hamna Mustafa
 
 In this project, I created a ticket reservation system in C++. A seating chart for an auditorium is provided in a txt file. An example file looks like:
 
-<img width="155" alt="Screen Shot 2021-12-30 at 4 53 25 AM" src="https://user-images.githubusercontent.com/42907026/147747939-3fba7f3d-57fa-4c14-8b1a-e063425becf6.png">
+<img width="148" alt="Screen Shot 2021-12-30 at 5 56 00 AM" src="https://user-images.githubusercontent.com/42907026/147749947-bf2d6938-bf99-45fb-9900-5048bc811f5e.png">
 
 
 Each line represents one row of the auditorium. The "." represent empty seats where as "A","C","S" represent reserved seats for adults, children, and seniors respectively. 
@@ -17,8 +17,8 @@ Once the user exits, a report is generated that calculates and displayes ticket 
 
 The words in bold are the output of the program whereas the words not in bold are the input by the user.
 
-<img width="841" alt="Screen Shot 2021-12-30 at 5 25 04 AM" src="https://user-images.githubusercontent.com/42907026/147747735-fbb83c9e-dd07-49bc-9e7d-faf267ca710c.png">
+<img width="776" alt="Screen Shot 2021-12-30 at 5 56 47 AM" src="https://user-images.githubusercontent.com/42907026/147749974-f261168b-f9df-4ee8-9998-98fd0c050fda.png">
 
-<img width="860" alt="Screen Shot 2021-12-30 at 5 26 22 AM" src="https://user-images.githubusercontent.com/42907026/147747837-020c853f-5e2d-4f9a-acd3-c20a8eb7181a.png">
+<img width="850" alt="Screen Shot 2021-12-30 at 5 57 02 AM" src="https://user-images.githubusercontent.com/42907026/147749990-639a243f-1863-4e93-b80d-235509605bd7.png">
 
 

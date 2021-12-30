@@ -19,5 +19,6 @@ Once the user exits, a report is generated that calculates and displayes ticket 
 # Sample Run
 <img width="841" alt="Screen Shot 2021-12-30 at 5 25 04 AM" src="https://user-images.githubusercontent.com/42907026/147747735-fbb83c9e-dd07-49bc-9e7d-faf267ca710c.png">
 
-<img width="847" alt="Screen Shot 2021-12-30 at 5 25 13 AM" src="https://user-images.githubusercontent.com/42907026/147747754-e26aaa15-56ce-418c-8de7-06b6f6f31aea.png">
+<img width="860" alt="Screen Shot 2021-12-30 at 5 26 22 AM" src="https://user-images.githubusercontent.com/42907026/147747837-020c853f-5e2d-4f9a-acd3-c20a8eb7181a.png">
+
 
